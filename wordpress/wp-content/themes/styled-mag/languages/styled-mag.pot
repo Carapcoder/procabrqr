@@ -1,0 +1,1209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Styled Mag\n"
+"POT-Creation-Date: 2017-01-20 14:51+0545\n"
+"PO-Revision-Date: 2017-01-20 14:51+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Well this does not look good.<br />It appears this page is missing or was "
+"removed."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"If what you were looking for is not found, you may want to try searching "
+"with keywords relevant to what you were looking for."
+msgstr ""
+
+#: comments.php:30
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:30 content-audio.php:25 content-gallery.php:25
+#: content-search.php:21 content.php:51
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:30 content-audio.php:25 content-gallery.php:25
+#: content-search.php:21 content.php:51
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:27 content-gallery.php:37 content-quote.php:27
+#: content-status.php:30
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:30 content-audio.php:44 content-gallery.php:39
+#: content-image.php:17 content-link.php:21 content-page.php:35
+#: content-quote.php:30 content-single.php:57 content-status.php:31
+msgid "Pages:"
+msgstr ""
+
+#: content-aside.php:43 content-audio.php:27 content-gallery.php:27
+#: content-image.php:11 content-page.php:40 content-single.php:32
+#: content-status.php:17 content.php:55 inc/template-tags.php:44
+#: inc/template-tags.php:62
+msgid "Edit"
+msgstr ""
+
+#: content-audio.php:16 content.php:20
+msgid "Untitled"
+msgstr ""
+
+#: content-audio.php:25 content-gallery.php:25 content-search.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: content-image.php:14
+msgid "See More..."
+msgstr ""
+
+#: content-link.php:18
+msgid "Continue reading..."
+msgstr ""
+
+#: content-none.php:14
+msgid "Our apologies, nothing was found"
+msgstr ""
+
+#: content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24
+msgid ""
+"Unfortunately, nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-search.php:20
+msgid "Comments: "
+msgstr ""
+
+#: content-single.php:87
+msgid ""
+"<span class=\"meta-tagged\"><i class=\"fa fa-tags\"></i>&nbsp;<span class="
+"\"entry-meta-value\">"
+msgstr ""
+
+#: content-single.php:88
+#, php-format
+msgid ""
+"<span class=\"meta-posted\"><i class=\"fa fa-folder\"></i>&nbsp;<span class="
+"\"entry-meta-value\"> %s"
+msgstr ""
+
+#: content-single.php:89
+#, php-format
+msgid "<span class=\"meta-author\"><i class=\"fa fa-user\"></i>&nbsp; %s"
+msgstr ""
+
+#: content-single.php:90
+msgid "<i class=\"fa fa-calendar-o\"></i>&nbsp; "
+msgstr ""
+
+#: content.php:43
+msgid "<i class=\"fa fa-bolt\"></i> Featured"
+msgstr ""
+
+#: content.php:50
+msgid "<i class=\"fa fa-comment\"></i> "
+msgstr ""
+
+#: content.php:51
+msgid "Comment"
+msgstr ""
+
+#: footer.php:37
+#, php-format
+msgid "Styled Mag WordPress Themes By %1$s"
+msgstr ""
+
+#: functions.php:72
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:73
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:142
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:143
+msgctxt "Oswald: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:144
+msgctxt "Lato: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/custom-resources/category-dropdown.php:18
+msgid "&mdash; Choose Category &mdash;"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:19
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:20
+msgid "Organize Your Basis Settings"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:25
+msgid "Site Basic color"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:36
+msgid "Site Basic Background Color"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:44
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:56
+msgid "Page Width"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:60 inc/styledmag-sanitizer.php:52
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:61
+msgid "Boxed Width"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:67
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:79
+msgid "Blog Style"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:84 inc/styledmag-sanitizer.php:103
+msgid "Blog with Right Sidebar"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:85 inc/styledmag-sanitizer.php:104
+msgid "Blog with Left Sidebar"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:86 inc/styledmag-sanitizer.php:105
+msgid "Blog with Left &amp; Right Sidebar"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:87 inc/styledmag-sanitizer.php:106
+msgid "Blog with Full Width &amp; no Sidebars"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:94
+msgid "Move To Top"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:106
+msgid "Enable Move To Top"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:116
+msgid "Site Title & Taglines"
+msgstr ""
+
+#: inc/customizer/basicsetting-panel.php:117
+msgid "Deals with the Site Title settings of your theme"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:16
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:17
+msgid "Deals with the Footer portion of your theme"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:21
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:34
+msgid "Your Copyright Notice"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:42
+#: inc/customizer/typography-setting-panel.php:278
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:55
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:69
+msgid "Footer Text "
+msgstr ""
+
+#: inc/customizer/footer-panel.php:84
+msgid "Footer Navigation Color "
+msgstr ""
+
+#: inc/customizer/footer-panel.php:99
+msgid "Footer Navigation Hover Color "
+msgstr ""
+
+#: inc/customizer/header-panel.php:24
+msgid "Social Networking Links"
+msgstr ""
+
+#: inc/customizer/header-panel.php:36
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/header-panel.php:49
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/header-panel.php:63
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/header-panel.php:76
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/header-panel.php:83
+msgid "Social Icon Colors"
+msgstr ""
+
+#: inc/customizer/header-panel.php:95
+msgid "Social Icon Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:108
+msgid "Social Icon Background Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:121
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:131
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer/header-panel.php:132
+msgid "Search Icon Settings "
+msgstr ""
+
+#: inc/customizer/header-panel.php:143
+msgid "Search Icon Hide"
+msgstr ""
+
+#: inc/customizer/header-panel.php:156
+msgid "Search Icon Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:168
+msgid "Search Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:180
+msgid "Search Icon Line"
+msgstr ""
+
+#: inc/customizer/header-panel.php:189 inc/customizer/header-panel.php:200
+#: inc/customizer/header-panel.php:205
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer/header-panel.php:217
+msgid "Sticky Menu Offset"
+msgstr ""
+
+#: inc/customizer/header-panel.php:228
+msgid "Navigation Colours"
+msgstr ""
+
+#: inc/customizer/header-panel.php:242
+msgid "Menu Link Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:254
+msgid "Menu Link Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:268
+msgid "Menu Active Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:280
+msgid "Menu Active Text Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:292
+msgid "Menu Hover Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:304
+msgid "Menu Hover Text"
+msgstr ""
+
+#: inc/customizer/header-panel.php:316
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:328
+msgid "Submenu Link Color"
+msgstr ""
+
+#: inc/customizer/header-panel.php:341
+msgid "Submenu Active Text"
+msgstr ""
+
+#: inc/customizer/header-panel.php:353
+msgid "Submenu Active Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:366
+msgid "Submenu Hover Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:378
+msgid "Submenu Hover Text"
+msgstr ""
+
+#: inc/customizer/header-panel.php:392
+msgid "Submenu Bottom Border"
+msgstr ""
+
+#: inc/customizer/header-panel.php:404
+msgid "Submenu Link Divider"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:15
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:16
+msgid "Edit the homepage section of your theme"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:21
+msgid "Homepage Top Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:22
+msgid "Edit to change the homepage top section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:36 inc/customizer/homepage-panel.php:60
+#: inc/widgets/category_widget.php:64
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:38
+msgid ""
+" Select Category to show posts posted in home page top section (Leave it "
+"empty to display recent posts) "
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:46
+msgid "Homepage Featured Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:62
+msgid " Select Category to show posts posted in home page feature section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:70
+msgid "Homepage Latest News Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:78
+msgid "LATEST NEWS"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:83
+msgid "Latest News Section title"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:92
+msgid "Homepage Author Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:99
+msgid "WHO IS BEHIND ARTICLES"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:104
+msgid "Author Section title"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:19
+msgid "Header Top Bar"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:20
+msgid "Top Bar portion of your theme"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:25
+msgid "Top Bar Display"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:26
+msgid "Header Top Represents the top position ahead of Menu"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:38
+msgid "Hide Top Bar"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:47
+msgid "Breakig News"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:52
+msgid "Ticker News Title"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:62
+msgid "Top Bar Colouring Options"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:63
+msgid "Enable you to Color the Top Bar on Your Choice"
+msgstr ""
+
+#: inc/customizer/topheader-panel.php:75
+msgid "Top Bar Date Background Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:20
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:21
+msgid "Deals with the Typography settings of your theme"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:25
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:38
+msgid "H1 Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:49
+msgid "H1 Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:60
+msgid "H2 Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:71
+msgid "H2 Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:82
+msgid "H3 Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:93
+msgid "H3 Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:104
+msgid "H4 Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:115
+msgid "H4 Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:126
+msgid "H5 Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:137
+msgid "H5 Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:148
+msgid "H6 Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:159
+msgid "H6 Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:170
+msgid "Paragraph Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:181
+msgid "Paragraph Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:192
+msgid "Anchor Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:203
+msgid "Anchor Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:214
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:226
+msgid "Link Font-Size"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:236
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:247
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:279
+msgid "Deals with the color settings of your theme"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:284
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:290
+msgid "Breadcumb Colors"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:301
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:313
+msgid "Breadcrumbs Text"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:324
+msgid "Breadcrumbs Link Color"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:335
+msgid "Breadcrumbs Link Hover"
+msgstr ""
+
+#: inc/customizer/typography-setting-panel.php:348
+msgid "Bottom Widget Background"
+msgstr ""
+
+#: inc/extras.php:55
+msgid "Name"
+msgstr ""
+
+#: inc/extras.php:57
+msgid "Email"
+msgstr ""
+
+#: inc/extras.php:59
+msgid "Website"
+msgstr ""
+
+#: inc/styledmag-sanitizer.php:53
+msgid "Boxed Medium 1070px"
+msgstr ""
+
+#: inc/styledmag-sanitizer.php:54
+msgid "Boxed Small 970px"
+msgstr ""
+
+#: inc/styledmag-sanitizer.php:69
+msgid "Wide Featured Image"
+msgstr ""
+
+#: inc/styledmag-sanitizer.php:70
+msgid "Small Featured Image"
+msgstr ""
+
+#: inc/styledmag-sanitizer.php:86
+msgid "Content"
+msgstr ""
+
+#: inc/styledmag-sanitizer.php:87
+msgid "Excerpt"
+msgstr ""
+
+#: inc/styledmag-widgets.php:16
+msgid "Sidebar"
+msgstr ""
+
+#: inc/styledmag-widgets.php:18
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/styledmag-widgets.php:26
+msgid "Home right sidebar"
+msgstr ""
+
+#: inc/styledmag-widgets.php:36
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/styledmag-widgets.php:38
+msgid ""
+"This is the right sidebar column that appears on pages, but not part of the "
+"blog"
+msgstr ""
+
+#: inc/styledmag-widgets.php:45
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/styledmag-widgets.php:47
+msgid ""
+"This is the left sidebar column that appears on pages, but not part of the "
+"blog"
+msgstr ""
+
+#: inc/styledmag-widgets.php:55
+msgid "Blog/Archive Right Sidebar"
+msgstr ""
+
+#: inc/styledmag-widgets.php:57
+msgid ""
+"This is the right sidebar column that appears on the blog and archive page"
+msgstr ""
+
+#: inc/styledmag-widgets.php:64
+msgid "Blog/Archive Left Sidebar"
+msgstr ""
+
+#: inc/styledmag-widgets.php:66
+msgid ""
+"This is the left sidebar column that appears on the blog and archive page"
+msgstr ""
+
+#: inc/styledmag-widgets.php:74
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/styledmag-widgets.php:76
+msgid ""
+"This is the first bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: inc/styledmag-widgets.php:83
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/styledmag-widgets.php:85
+msgid ""
+"This is the second bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: inc/styledmag-widgets.php:92
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/styledmag-widgets.php:94
+msgid ""
+"This is the third bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: inc/styledmag-widgets.php:101
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/styledmag-widgets.php:103
+msgid ""
+"This is the fourth bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: inc/styledmag-widgets.php:111
+msgid "advertise home page"
+msgstr ""
+
+#: inc/styledmag-widgets.php:113
+msgid "Home Page Advertise Section"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Previous page"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Next page"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:59
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:103
+#, php-format
+msgid ""
+"<span class=\"byline\">  %1$s</span><span class=\"posted-on\"> %2$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:181
+msgid "«"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgid "»"
+msgstr ""
+
+#: inc/template-tags.php:204
+msgid "Related posts"
+msgstr ""
+
+#: inc/widgets/category_widget.php:23
+msgid "Styledmag : Category Post"
+msgstr ""
+
+#: inc/widgets/category_widget.php:25
+msgid "A widget To Display Cateogory posts"
+msgstr ""
+
+#: inc/widgets/category_widget.php:53
+msgid "Main Title"
+msgstr ""
+
+#: inc/widgets/category_widget.php:54
+msgid "Leave it empty to hide sub title portion"
+msgstr ""
+
+#: inc/widgets/category_widget.php:59
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/category_widget.php:91 inc/widgets/category_widget.php:93
+#: inc/widgets/category_widget.php:114 inc/widgets/category_widget.php:159
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:84
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:87
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:89 inc/widgets/widget-fields.php:98
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:92
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/widget-fields.php:114
+msgid "View File"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: styledmag-template/templates/template_functions.php:279
+msgid "Featured posts"
+msgstr ""
+
+#: styledmag-template/templates/template_functions.php:342
+msgid "by category"
+msgstr ""
+
+#: styledmag-template/templates/template_functions.php:420
+msgid "our team"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:157 tgm/tgm.php:54
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:158 tgm/tgm.php:55
+msgid "Install Plugins"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:159 tgm/tgm.php:56
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:160
+msgid "Something went wrong."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:161 tgm/tgm.php:58
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:162 tgm/tgm.php:59
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:163 tgm/tgm.php:60
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:164 tgm/tgm.php:61
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:165 tgm/tgm.php:62
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:166 tgm/tgm.php:63
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:167 tgm/tgm.php:64
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:168 tgm/tgm.php:65
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:169 tgm/tgm.php:66
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:170 tgm/tgm.php:67
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:171 tgm/tgm.php:68
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:172
+msgid "Return to the dashboard"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:173
+#: tgm/class-tgm-plugin-activation.php:1935 tgm/tgm.php:69
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:174
+#: tgm/class-tgm-plugin-activation.php:1626
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm/class-tgm-plugin-activation.php:175
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:176
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:527
+#: tgm/class-tgm-plugin-activation.php:2152
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1162
+msgid "Private Repository"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1165
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1170
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1173
+msgid "Required"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1173
+msgid "Recommended"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1176
+msgid "Not Installed"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1178
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1283
+#: tgm/class-tgm-plugin-activation.php:1391
+msgid "Install"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1305
+#: tgm/class-tgm-plugin-activation.php:1392
+msgid "Activate"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1354
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1370
+msgid "Plugin"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1371
+msgid "Source"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1372
+msgid "Type"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1373
+msgid "Status"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1918
+msgid "Install package not available."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1919
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1920
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1921
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1922
+msgid "Plugin install failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1923
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:1934
+msgid "Plugin activation failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2048
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2049
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2049
+#: tgm/class-tgm-plugin-activation.php:2058
+msgid "Show Details"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2049
+#: tgm/class-tgm-plugin-activation.php:2058
+msgid "Hide Details"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2050
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2051
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2055
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2056
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2057
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2058
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2059
+msgid "All installations have been completed."
+msgstr ""
+
+#: tgm/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm/tgm.php:57
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: tgm/tgm.php:70
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
