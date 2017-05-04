@@ -1,0 +1,48 @@
+// out: null, main: ../main.less
+.chevron() {
+  &::after {
+    @size: 10.3px; // the real width of our chevron
+    @border-width: 3px; // the weight
+
+    @width: sqrt(pow(@size - (@border-width * 2), 2) + pow(@size - (@border-width * 2), 2));
+    @height: @width;
+    content: '';
+    position: relative;
+    top: 0;
+    right: 0;
+    display: inline-block;
+    width: @width;
+    height: @height;
+    border-style: solid;
+    border-width: @border-width @border-width 0 0;
+    vertical-align: middle;
+    transform: rotate(-45deg);
+  }
+}
+
+.chevron-right {
+  .chevron;
+  
+  &:after {
+    left: 0;
+    transform: rotate(45deg);
+  }
+}
+
+.chevron-down {
+  .chevron;
+  
+  &:after {
+    top: 0;
+    transform: rotate(135deg);
+  }
+}
+
+.chevron-left {
+  .chevron;
+  
+  &:after {
+    left: 0.25em;
+    transform: rotate(-135deg);
+  }
+}
